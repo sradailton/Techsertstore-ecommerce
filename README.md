@@ -1,5 +1,3 @@
-<!--- # "Can be a image or a gift from the project pages" -->
-
 
 ![GIF estrutura dinâmica ofertas](https://github.com/user-attachments/assets/bbd34096-e404-48e1-a0f9-1bda7e3e6821)
 
@@ -10,7 +8,6 @@ Desenvolver uma estrutura em que o cliente precise apenas acessar a página para
 
 ## Tecnilogias ultilizadas
 
-<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
