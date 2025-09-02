@@ -4,7 +4,7 @@
 
 # Projeto: Estrutura automática de ofertas - ecommerce
 
-Desenvolver uma estrutura em que o cliente precise apenas acessar a página para que todas as ofertas sejam exibidas automaticamente, sem interação manual. Nas implementações da estrutura foi utilizado HTML5, CSS e JavaScript.
+Desenvolver uma estrutura em que o cliente precise apenas acessar a página para que todas as ofertas sejam exibidas automaticamente, sem interação manual. Nas implementações da estrutura foi utilizado HTML5, CSS e JavaScript, focado em aplicar conceitos fundamentais de front-end.
 
 ## Tecnilogias ultilizadas
 
